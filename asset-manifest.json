@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shpooingWebsite/static/css/main.7b7d3ed4.css",
-    "main.js": "/shpooingWebsite/static/js/main.057df3f5.js",
+    "main.js": "/shpooingWebsite/static/js/main.dbafec78.js",
     "static/media/img6.jpg": "/shpooingWebsite/static/media/img6.152b1dcc6368813855ec.jpg",
     "static/media/img4.jpg": "/shpooingWebsite/static/media/img4.b656bdbe827cd7641ee9.jpg",
     "static/media/img1.jpg": "/shpooingWebsite/static/media/img1.4fffb644b1becb45668c.jpg",
@@ -11,10 +11,10 @@
     "static/media/img5.jpg": "/shpooingWebsite/static/media/img5.e84af897e928fa3a3b65.jpg",
     "index.html": "/shpooingWebsite/index.html",
     "main.7b7d3ed4.css.map": "/shpooingWebsite/static/css/main.7b7d3ed4.css.map",
-    "main.057df3f5.js.map": "/shpooingWebsite/static/js/main.057df3f5.js.map"
+    "main.dbafec78.js.map": "/shpooingWebsite/static/js/main.dbafec78.js.map"
   },
   "entrypoints": [
     "static/css/main.7b7d3ed4.css",
-    "static/js/main.057df3f5.js"
+    "static/js/main.dbafec78.js"
   ]
 }
