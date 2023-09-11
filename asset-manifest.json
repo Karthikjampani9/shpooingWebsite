@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shpooingWebsite/static/css/main.7b7d3ed4.css",
+    "main.js": "/shpooingWebsite/static/js/main.057df3f5.js",
+    "static/media/img6.jpg": "/shpooingWebsite/static/media/img6.152b1dcc6368813855ec.jpg",
+    "static/media/img4.jpg": "/shpooingWebsite/static/media/img4.b656bdbe827cd7641ee9.jpg",
+    "static/media/img1.jpg": "/shpooingWebsite/static/media/img1.4fffb644b1becb45668c.jpg",
+    "static/media/img3.jpg": "/shpooingWebsite/static/media/img3.7d99a8e85142cbb0c990.jpg",
+    "static/media/img2.jpg": "/shpooingWebsite/static/media/img2.bf3d88c03e5fe252db50.jpg",
+    "static/media/img7.jpg": "/shpooingWebsite/static/media/img7.b37a48c2fbfc776324ae.jpg",
+    "static/media/img5.jpg": "/shpooingWebsite/static/media/img5.e84af897e928fa3a3b65.jpg",
+    "index.html": "/shpooingWebsite/index.html",
+    "main.7b7d3ed4.css.map": "/shpooingWebsite/static/css/main.7b7d3ed4.css.map",
+    "main.057df3f5.js.map": "/shpooingWebsite/static/js/main.057df3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7d3ed4.css",
+    "static/js/main.057df3f5.js"
+  ]
+}
