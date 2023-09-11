@@ -1,0 +1,41 @@
+/* Default styles for both mobile and desktop */
+.cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cartItems {
+    width: 100%;
+  }
+  
+  /* Styles for the buttons (default size) */
+  .cart-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  /* Mobile-first styles (applied to all screens by default) */
+  /* Adjust button size for mobile screens */
+  @media (max-width: 768px) {
+    .cart-button {
+      padding: 8px 16px; /* Adjust the button size for mobile screens */
+    }
+  }
+  
+  /* Desktop styles (applied to screens wider than 768px) */
+  /* Adjust button size for larger screens */
+  @media (min-width: 769px) {
+    .cart-button {
+      padding: 10px 20px; /* Adjust the button size for desktop screens */
+    }
+  }
+  
+  /* Add any other responsive styles as needed */
+  

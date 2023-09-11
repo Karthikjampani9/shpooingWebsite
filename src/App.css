@@ -1,0 +1,29 @@
+/* Default styles for both mobile and desktop */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Mobile-first styles (applied to all screens by default) */
+  /* Adjust styles for mobile screens */
+  @media (max-width: 768px) {
+    /* Add your mobile-specific styles here */
+    body {
+      font-size: 16px;
+    }
+  }
+  
+  /* Desktop styles (applied to screens wider than 768px) */
+  /* Adjust styles for larger screens */
+  @media (min-width: 769px) {
+    /* Add your desktop-specific styles here */
+    body {
+      font-size: 18px;
+    }
+  }
+  
+  /* Add any other responsive styles as needed */
+  
+

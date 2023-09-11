@@ -1,0 +1,70 @@
+.NavBar{
+    background: rgb(34, 36, 41);
+    color: aliceblue;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    
+}
+.links-shoppingcart{
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 5%;
+}
+.links-home{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 68%;
+    margin-right: 5%;
+}
+
+.links-contact{
+    font-size: 15px;
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 5%;
+
+}
+.links-contact:hover{
+   color: rgb(167, 166, 166);
+   
+}
+.links-shoppingcart:hover{
+    color: rgb(167, 166, 166);
+}
+.links-home:hover{
+    color: rgb(167, 166, 166);
+}
+
+/* Default styles for both mobile and desktop */
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .links-home,
+  .links-contact,
+  .links-shoppingcart {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Mobile-first styles (applied to all screens by default) */
+  /* Adjust icon size for mobile screens */
+  .links-shoppingcart .MuiSvgIcon-root {
+    font-size: 24px; /* Adjust the icon size for mobile screens */
+  }
+  
+  /* Desktop styles (applied to screens wider than 768px) */
+  /* Adjust icon size for larger screens */
+  @media (min-width: 769px) {
+    .links-shoppingcart .MuiSvgIcon-root {
+      font-size: 32px; /* Adjust the icon size for desktop screens */
+    }
+  }
+  
+
+  
